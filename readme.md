@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhranshu</h1>
-<h3 align="center">A passinate Ethical Hacker</h3>
+<h3 align="center">A passionate Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhranshu02&label=Profile%20views&color=0e75b6&style=flat" alt="subhranshu02" /> </p>
 
